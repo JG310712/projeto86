@@ -11,7 +11,7 @@ function newImage()
             top:0,
             left:0
         });
-        ,canvas,add(blockImageObject);
+        canvas.add(blockImageObject);
     });
 	
 }
